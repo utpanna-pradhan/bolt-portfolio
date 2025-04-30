@@ -29,7 +29,7 @@ npm install
 npm run dev
 
 ## 🌐 Live Demo
-https://boltportfolio.netlify.app/
+https://bolt-portfolio-wheat.vercel.app/
 
 ## Screenshot
 ![Screenshot (566)](https://github.com/user-attachments/assets/4c460631-b2f0-4530-b1b2-21b233f54ef1)
